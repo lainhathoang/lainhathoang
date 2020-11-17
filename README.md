@@ -1,6 +1,6 @@
 ### Hi there, I'm [lainhathoang][website] 👋
 
-## I'm a ... 😎 !!
+## I'm ... 😎 !!
 - ⚡ Fun fact: Everything is energy;
 
 ### Connect with me:
