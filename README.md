@@ -1,7 +1,7 @@
 ### Hi there, I'm [lainhathoang][website] 👋
 
 ## I'm ... 😎 !!
-- ⚡ Fun fact: Everything is energy;
+- ⚡ Fun fact: <3;
 
 ### Connect with me:
 
