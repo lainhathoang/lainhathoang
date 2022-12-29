@@ -1,65 +1,40 @@
-### Hi there, I'm [lainhathoang][website] 👋
+<h2 align="center">
+    ❄️Hello mah fens! <strong>I'm Hoang</strong> 🚀🚀
+</h2>
+<div align="center">
+    <a href="https://t.me/lainhathoang">
+        <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=8E72DC" alt="Telegram Badge"/>
+    </a>
+    <a href="https://facebook.com/lainhathoang01234">
+        <img src="https://img.shields.io/badge/Facebook-8E72DC?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://twitter.com/lainhathoangbmw">
+        <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=8E72DC" alt="Twitter Badge"/>
+    </a>
+</div>
 
-## I'm ... 😎 !!
-- ⚡ Fun fact: <3;
+---
 
-### Connect with me:
+## About me
 
-[<img align="left" alt="lainhathoang" width="22px" src="./icons/globe.svg" />][website]
+- I'm a **_Blockchain Developer_** & a _crypto-holic_
+- ...
 
-<!--  -->
+---
 
-[<img align="left" alt="lainhathoang | stackoverflow" width="22px" src="./icons/github.png" />][github]
+### Some technologies i am working in:
 
-<!--  -->
+- Front-end: ReactJS / NextJS
+- Back-end: NodeJS
+- Database: MySQL / MongoDb
+- Blockchain Platform: Ethereum / Solana (past)
+- Programming Languages: Solidity / Javascript / Typescript
 
-[<img align="left" alt="lainhathoang | stackoverflow" width="22px" src="./icons/stackoverflow.svg" />][stackoverflow]
+---
 
-<!--  -->
+### 📚 Github Status
 
-[<img align="left" alt="lainhathoang | LinkedIn" width="22px" src="/icons/linkedin.svg" />][linkedin]
-
-<!--  -->
-
-<br />
-<br />
-
-### Languages:
-
-<img align="left" alt="HTML5" width="28px" src="./icons/html5.svg" />
-<!--  -->
-<img align="left" alt="CSS3" width="28px" src="./icons/css3.svg" />
-<!--  -->
-<img align="left" alt="JavaScript" width="28px" src="./icons/js.svg" />
-<!--  -->
-<img align="left" alt="JQuery" width="28px" src="./icons/jquery.png" />
-<!--  -->
-<img align="left" alt="NodeJS" width="28px" src="./icons/nodejs2.svg" />
-<!--  -->
-<img align="left" alt="React" width="28px" src="./icons/react.svg" />
-<!--  -->
-<img align="left" alt="MongoDB" width="28px" src="./icons/mongodb.svg" />
-<!--  -->
-<img align="left" alt="PostgreSQL" width="28px" src="./icons/postgresql.svg" />
-<!--  -->
-
-<br />
-<br />
-
-### Tools:
-
-<img align="left" alt="Visual Studio Code" width="28px" src="./icons/vscode.svg" />
-
-<img align="left" alt="Git" width="28px" src="./icons/git.svg" />
-
-<img align="left" alt="GitHub" width="28px" src="./icons/github.png" />
-
-<img align="left" alt="Terminal" width="28px" src="./icons/terminal2.svg" />
-
-<br />
-<br />
-
-[website]: https://lainhathoang.github.io
-[stackoverflow]: https://stackoverflow.com/users/11769697/lainhathoang?tab=profile
-[github]: https://github.com/lainhathoang
-[linkedin]: https://linkedin.com/in/lainhathoang
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lainhathoang&show_icons=true&theme=buefy&count_private=true" height="160">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lainhathoang&layout=compact&theme=buefy&langs_count=6" height="160">
+</p>
