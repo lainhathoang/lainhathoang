@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=8E72DC" alt="Telegram Badge"/>
     </a>
     <a href="https://facebook.com/lainhathoang01234">
-        <img src="https://img.shields.io/badge/Facebook-8E72DC?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+        <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=8E72DC" alt="Facebook Badge"/>
     </a>
     <a href="https://twitter.com/lainhathoangbmw">
         <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=8E72DC" alt="Twitter Badge"/>
