@@ -17,7 +17,7 @@
 
 ## About me
 
-- I'm a **_Blockchain Developer_** & a _crypto-holic_
+- I'm a **_Blockchain Developer_** & a _crypto-holic guy_
 - ...
 
 ---
