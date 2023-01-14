@@ -30,8 +30,6 @@
 - Blockchain Platform: Ethereum / Solana (past)
 - Programming Languages: Solidity / Javascript / Typescript
 
----
-
 <!-- ### 📚 Github Status
 
 <p align="center">
