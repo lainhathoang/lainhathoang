@@ -30,9 +30,9 @@
 - Blockchain Platform: Ethereum / Solana (past)
 - Programming Languages: Solidity / Javascript / Typescript
 
-<!-- ### 📚 Github Status
+### 📚 Github Status
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lainhathoang&show_icons=true&theme=buefy&count_private=true" height="160">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lainhathoang&layout=compact&theme=buefy&langs_count=6" height="160">
-</p> -->
+</p>
