@@ -2,13 +2,13 @@
     ❄️Hello mah fens! <strong>I'm Hoang</strong> 🚀🚀
 </h2>
 <div align="center">
-    <a href="https://t.me/lainhathoang">
+    <a href="https://t.me/lainhathoang1234">
         <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=8E72DC" alt="Telegram Badge"/>
     </a>
-    <a href="https://facebook.com/lainhathoang01234">
+    <a href="https://facebook.com/lainhathoang1234">
         <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=8E72DC" alt="Facebook Badge"/>
     </a>
-    <a href="https://twitter.com/lainhathoangbmw">
+    <a href="https://twitter.com/lainhathoangvn">
         <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=8E72DC" alt="Twitter Badge"/>
     </a>
 </div>
@@ -22,11 +22,11 @@
 
 ---
 
-### Some technologies i am working in:
+### Some technologies I am working in:
 
 - Front-end: ReactJS / NextJS - Redux
 - Back-end: NodeJS
-- Database: MySQL / MongoDb
+- Database: MySQL / MongoDB
 - Blockchain Platform: Ethereum / Solana (past)
 - Programming Languages: Solidity / Javascript / Typescript
 
