@@ -25,7 +25,7 @@
 ### Some technologies I am working in:
 
 - Front-end: ReactJS / NextJS - Redux
-- Back-end: NodeJS
+- Back-end: NodeJS / Java
 - Database: MySQL / MongoDB
 - Blockchain Platform: Ethereum / Solana (past)
 - Programming Languages: Solidity / Javascript / Typescript
