@@ -27,7 +27,7 @@
 - Front-end: ReactJS / NextJS - Redux
 - Back-end: NodeJS / Java
 - Database: MySQL / MongoDB
-- Blockchain Platform: Ethereum / Solana
+- **Blockchain Platform**: Ethereum / Solana
 - Programming Languages: Solidity / Javascript / Typescript
 
 ### 📚 Github Status
